@@ -1,2 +1,2 @@
 # jd
-jd(jquery)
+jd(in jquery)
